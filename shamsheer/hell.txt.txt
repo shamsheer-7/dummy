@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 
 kjfsfsfjhfkjdfjbfb iasi
+=======
+kjfsfsfjhfkjdfjbfb iasifbs these
+These is my new brach
+>>>>>>> ec56da98035ffd16de58d69364bf8908b7f326c6
